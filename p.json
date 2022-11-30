@@ -1,0 +1,14 @@
+{
+  "p": [
+    {
+      "nombre": "jorge",
+      "foto": "Mailo",
+      "numero": 555555
+    },
+    {
+      "nombre": "bingo",
+      "foto": "tara",
+      "numero": 777777
+    }
+  ]
+}
